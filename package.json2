@@ -1,0 +1,13 @@
+{
+  "name": "Joel_Colors",
+  "title": "Colores de la Vida",
+  "displayName": "Colores de la Vida",
+  "theme": "ui",
+  "version": "0.1.0",
+  "description": "Los mejores colores para disfrutar.",
+  "license": "GPL-3.0",
+  "engines": {
+    "mailspring": "*"
+  }
+}
+
